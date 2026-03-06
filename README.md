@@ -159,3 +159,20 @@ It also helped me get better at:
 - Debugging larger programs
 
 Even though it was frustrating at times, it was still a pretty interesting project to work on.
+
+# Project Structure
+
+- main.cpp → Main program file
+- drivers.txt → Stores driver information
+- officers.txt → Stores officer records
+- violations.txt → Stores traffic violations and fines
+- all_tickets.txt → Stores all generated tickets
+- password.txt → Stores admin password
+# How to Run
+
+1. Download or clone the repository
+2. Open the project in any C++ compiler (Visual Studio / CodeBlocks / Dev-C++)
+3. Compile the main source file
+4. Make sure the required text files are in the same directory as the executable
+5. Run the program
+
